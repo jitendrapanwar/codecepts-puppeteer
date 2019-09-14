@@ -1,0 +1,24 @@
+{
+  "name": "codecepts-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "codeceptjs run --steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendrapanwar/codecepts-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendrapanwar/codecepts-puppeteer/issues"
+  },
+  "homepage": "https://github.com/jitendrapanwar/codecepts-puppeteer#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.3.1",
+    "puppeteer": "^1.20.0"
+  }
+}
